@@ -9,6 +9,11 @@
 
 - https://patika.dev
 
+## Daily Routine Blogs etc.
+
+- https://news.ycombinator.com/
+- https://www.producthunt.com/
+
 ## Frontend
 
 ### Learning
