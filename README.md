@@ -4,11 +4,12 @@
 EN and TR flags are explain document is contained in which languages
 ```
 
+## General
 
->- https://colab.research.google.com
->- https://jupyter.org/try
->- https://github.com
->- https://docs.microsoft.com [TR/EN]
+- https://colab.research.google.com
+- https://jupyter.org/try
+- https://github.com
+- https://docs.microsoft.com [TR/EN]
 
 ## Learning
 
