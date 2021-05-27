@@ -1,24 +1,29 @@
 # My Useful Sources List
 
+```
+EN and TR flags are explain document is contained in which languages
+```
+
+
 >- https://colab.research.google.com
 >- https://jupyter.org/try
 >- https://github.com
->- https://docs.microsoft.com
+>- https://docs.microsoft.com [TR/EN]
 
 ## Learning
 
-- https://patika.dev
+- https://patika.dev [TR]
 
 ## Daily Routine Blogs etc.
 
-- https://news.ycombinator.com/
-- https://www.producthunt.com/
+- https://news.ycombinator.com/ [EN]
+- https://www.producthunt.com/ [EN]
 
 ## Frontend
 
 ### Learning
 
-- https://gokhansengun.com
+- https://gokhansengun.com [TR/EN]
 
 ### Design
 
@@ -35,7 +40,7 @@
 
 ### Learning
 
-- https://buraksenyurt.com
+- https://buraksenyurt.com [TR]
 
 
 ## Other
